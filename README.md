@@ -1,9 +1,9 @@
-# Volvo Cars (Global Online Digital)
+# Cars (Global Online Digital)
 
 ** **How to run React application** **<br/>
-In the project directory "god-frontend-code-test":
+In the project directory "god-frontend-code":
 1. Open a New Terminal
-2. Make sure you are in "god-frontend-code-test" folder
+2. Make sure you are in "god-frontend-code" folder
 3. Run below commands in bold.  <br/>
 
 ### `npm install`
